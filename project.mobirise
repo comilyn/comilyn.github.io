@@ -42,7 +42,7 @@
     "robotsSwitcher": "",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "google-analytics": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\r\n<div class=\"elfsight-app-22ef7d7c-b4ed-4200-9ef6-e3e9704ba7b4\"></div>",
+    "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacypolicy.html'>cookie policy</a>.",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='privacypolicy.html'>Privacy Policy</a>.",
     "sitemapSwitcher": "on"
